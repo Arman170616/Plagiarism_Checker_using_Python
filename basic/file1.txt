@@ -1,0 +1,3 @@
+We assume that you have deliberately decided to learn Python, but we will discuss this briefly, as well as learn about Python applications.
+
+Before we start Python programming, we need to keep in mind the destination before starting any work. In that way, we must keep in mind what specific subject we will work on next, which means we have to keep in mind the purpose of learning.

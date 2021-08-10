@@ -1,0 +1,2 @@
+
+Before we start Python programming, we need to keep in mind the destination before starting any work. In that way, we must keep in mind what
